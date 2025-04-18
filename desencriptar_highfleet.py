@@ -21,4 +21,3 @@ with open("english_decrypted.seria", "wb") as f:
 print("File decrypted! Saved as 'english_decrypted.seria'")
 
 # Important: Make sure the file 'english.seria_enc' is in the same folder as this script.
-# Original 
